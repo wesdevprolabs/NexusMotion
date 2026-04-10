@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/0 - Solution Files/" />
+  <Folder Name="/1 - WebApp/">
+    <Project Path="NexusMotion.WebApp/NexusMotion.WebApp.Client/NexusMotion.WebApp.Client.csproj" Id="bf794800-93a9-4fc4-8774-b8519e322ed3" />
+    <Project Path="NexusMotion.WebApp/NexusMotion.WebApp/NexusMotion.WebApp.csproj" Id="836a3b61-e042-4839-9330-31eeaaf9860e" />
+  </Folder>
+</Solution>
